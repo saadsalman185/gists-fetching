@@ -1,0 +1,25 @@
+.App {
+  padding-top: 2%;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  justify-items: center;
+}
+
+.itemWrapper {
+  background-color: aqua;
+  margin: 1%;
+  padding: 1%;
+  align-self: "center";
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  width: 50vh;
+  align-self: center;
+}
+
+.fileData {
+  display: none;
+}
